@@ -5,3 +5,7 @@ every time the program is executed...the speed is increased..quarterly...
 and the objective of the player is to complete the path...with the given 3 lives... 
 
 
+the images can be seen here
+
+https://cloud.githubusercontent.com/assets/15311127/10721395/282273c0-7bc9-11e5-8b24-cda6b921bc0b.png
+
