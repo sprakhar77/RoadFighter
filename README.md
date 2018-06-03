@@ -7,7 +7,10 @@ and the objective of the player is to complete the path with the given 3 lives
 ## Screenshots
 
 Here are some of the screenshots of the game
+<image src="Screenshots/1.png">
+ <image src="Screenshots/2.png">
+ <image src="Screenshots/3.png">
+ <image src="Screenshots/4.png">
+ <image src="Screenshots/5.png">
 
-
-https://github.com/justcode21/ROAD-FIGHTER/issues/1
 
